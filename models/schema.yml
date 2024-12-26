@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: DEMO_DBT
+    schema: SALES
+    tables:
+      - name: SALES_DATA
